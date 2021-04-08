@@ -1,4 +1,4 @@
-package com.happt.leetcode.array;
+package com.happy.leetcode.array;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

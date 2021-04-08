@@ -1,4 +1,4 @@
-package com.happt.leetcode.array;
+package com.happy.leetcode.array;
 
 import java.util.Arrays;
 
